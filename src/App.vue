@@ -44,7 +44,7 @@ export default {
   name: "app",
   data() {
     return {
-      image: "",
+      image: "", 
       json: "",
       text: "",
     };
